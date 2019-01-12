@@ -20,4 +20,8 @@ class Dog
   def breed
     @breed
   end
+  
+  def bark
+    puts "Woof!"
+  end 
 end
